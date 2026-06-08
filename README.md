@@ -10,6 +10,7 @@
 2. **지능형 호환성 검증 (Python Executor):** LLM이 직접 파이썬 코드를 실행하여 CPU 소켓 일치 여부와 파워 서플라이 권장 용량을 수학적으로 검증합니다.
 3. **컨텍스트 엔지니어링:** 사용자의 예산, 용도, 선호 브랜드를 기억하고 대화 문맥에 맞는 최적의 대안을 제시합니다.
 4. **로컬 환경 구동:** LM Studio를 통해 로컬 환경에서 LLM을 구동함으로써 개인정보를 보호하고 모델 제어권을 확보했습니다.
+ <img width="400"  alt="Image" src="https://github.com/user-attachments/assets/c34f269b-3cb6-4fa9-b7e4-4d9dc49dd9ad" /> <img width="400" alt="Image" src="https://github.com/user-attachments/assets/a3810f3e-0bb3-41f5-b5eb-138fc6d0a06c" /> <img width="400"  alt="Image" src="https://github.com/user-attachments/assets/c6c66e84-bc1b-478f-853a-b68b3f92911e" />
 
 ## 🛠 기술 스택
 - **언어:** Python 3.10+
