@@ -25,7 +25,9 @@
 3. **라이브러리 설치:**
    ```bash
    pip install streamlit openai tavily-python
-
+4. **프로그램 실행:**
+   ```bash
+   streamlit run app.py
 ## 🛠 데모 영상
 ```bash
 https://youtu.be/8f0aa7P5eYg 
