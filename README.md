@@ -1,4 +1,4 @@
-# 💻 PC 조립 어드바이저 AI 에이전트 (PC Assembly Advisor)
+# 💻 컴프랜드: PC 조립 어드바이저 AI 에이전트 (PC Assembly Advisor)
 > **LM Studio 로컬 LLM** 과 **RAG(검색 증강 생성)** 를 결합하여 사용자 맞춤형 PC 견적을 제안하고 호환성을 자동 검증하는 지능형 어드바이저 에이전트입니다.
 
 ## 📅 프로젝트 개요
